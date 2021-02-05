@@ -72,4 +72,4 @@ Es recomendable que los usuarios dispusieran de las siguientes __nociones básic
 
 
 
-## Referencias
+## Referencias :mag_right:
