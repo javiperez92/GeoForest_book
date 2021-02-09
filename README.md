@@ -4,9 +4,9 @@ Temario introductorio a Google Earth Engine (GEE), utilizando la interfaz [Code 
 
 
 ## Autores ✒️
-* **Javier Pérez Romero**- [e-mail](o32pero@uco.es)
-* **Francisco Javier Mesa Carrascosa**- [e-mail](ig2mecaf@uco.es)
-* **Antonio Jesús Ariza**-[e-mail](antonio41993@gmail.com)
+* **Javier Pérez Romero** - <o32peroj@uco.es>
+* **Francisco Javier Mesa Carrascosa** - <ig2mecaf@uco.es>
+* **Antonio Jesús Ariza** - <antonio41993@gmail.com>
 
 
 ## Objetivos 📋
@@ -18,10 +18,10 @@ Temario introductorio a Google Earth Engine (GEE), utilizando la interfaz [Code 
 Es recomendable que los usuarios dispusieran de las siguientes __nociones básicas__:
 
  * SIG y Teledetección.
- * Programación. **¡No es excluyente!** Pero la idea es que alguna vez haya tenido contacto con algún lenguaje de programación (R, Python, Matlab u otro). El lenguaje utilizado es Javascript, antes del curso sería importante que miren estos enlaces: [About JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript), [Una re-introducción a JavaScript (Tutorial de JS)](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript), [Introduction to JavaScript for Earth Engine](https://developers.google.com/earth-engine/tutorial_js_01).
- * 
+ * Programación. **¡No es excluyente!** Pero facilitaría muchos procesos si conocen algún lenguaje de programación (R, Python u otro). El lenguaje que se va a utilizar en los scripts será Javascript.
+ * Antes de practicar con los scripts, se debería de visitar estos enlaces: [Guía GEE](https://developers.google.com/earth-engine/guides), [Una re-introducción a JavaScript (Tutorial de GEE)](https://developers.google.com/earth-engine/tutorials/edu), [Scripts de Ejemplos](https://developers.google.com/earth-engine/tutorials/community/write)
 
-## Contenidos 📖
+## Contenido Teórico📖
 
  * [__1-Introducción.__](https://github.com/javiperez92/GeoForest_book)
     * Descripción de la herramienta Code Editor.
@@ -66,9 +66,9 @@ Es recomendable que los usuarios dispusieran de las siguientes __nociones básic
      * b. Imágenes o mapas
      * c. Videos
 
-* [__6-Caso prácticos.__](https://github.com/javiperez92/GeoForest_book)
+## Casos prácticos 🛠️
      
-.
+
 
 
 
