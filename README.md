@@ -23,7 +23,7 @@ Es recomendable que los usuarios dispusieran de las siguientes __nociones básic
 
 ## Contenido Teórico📖
 
- * [__1-Introducción.__](https://github.com/javiperez92/GeoForest_book)
+ * [__1-Introducción.__](https://github.com/javiperez92/GeoForest_book/blob/master/Cap9_GEE/1.Introducci%C3%B3n.md)
     * Descripción de la herramienta Code Editor.
 
 
